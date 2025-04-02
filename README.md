@@ -40,4 +40,3 @@ Este tutorial tem o objetivo de auxiliar o usuário a explorar os conceitos de g
    ```bash
    git clone https://github.com/andreluizlimaa/Unidade-01-Trabalho-01-U1T1-.git
    cd Unidade-01-Trabalho-01-U1T1-
-   pip install -r requirements.txt
