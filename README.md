@@ -9,10 +9,6 @@
 - [Objetivos](#objetivos)
 - [Conteúdo do Repositório](#conteúdo-do-repositório)
 - [Como Executar](#como-executar)
-- [Estrutura do Tutorial](#estrutura-do-tutorial)
-- [Contribuições](#contribuições)
-- [Licença](#licença)
-- [Contato](#contato)
 
 ## Introdução
 
